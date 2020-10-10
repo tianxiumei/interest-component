@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.tslint": true
+    },
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "files.associations": {
+      "*.mcss": "css",
+      "*.mless": "less"
+    },
+    "typescript.tsdk": "node_modules/typescript/lib"
+  }
+  
